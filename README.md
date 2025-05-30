@@ -12,7 +12,7 @@ A simple Flask web app that simulates a customer support assistant using OpenAI'
 2. Set your OpenAI API key as an environment variable:
 
 ```bash
-export OPENAI_API_KEY="your-api-key"
+export OPENAI_API_KEY="api-key"
 ```
 
 3. Install dependencies:
