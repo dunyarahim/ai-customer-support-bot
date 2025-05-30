@@ -28,7 +28,7 @@ python app.py
 ```
 
 ## Example Use Case
-- E-commerce businesses can use this to answer frequent questions related to shipping, refunds, and product information.
+- Online businesses can use this to answer frequent questions related to shipping, refunds, and product information.
 
 ## Requirements
 Flask==2.3.2
