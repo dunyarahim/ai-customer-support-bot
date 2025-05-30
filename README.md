@@ -1,4 +1,4 @@
-# ai-customer-support-bot
+# ai customer support bot
 
 A simple Flask web app that simulates a customer support assistant using OpenAI's GPT model.
 
